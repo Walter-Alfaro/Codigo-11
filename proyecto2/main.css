@@ -1,0 +1,23 @@
+header{
+    background-color: #00AAB5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header div{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+
+}
+header h1 {
+    font-size: 64px;
+line-height: 75px;
+color: #FFFFFF;
+}
+header h2{
+    font-size: 21px;
+line-height: 25px;
+color: #FFFFFF;
+align-items: center;
+}
