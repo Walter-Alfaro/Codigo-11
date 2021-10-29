@@ -1,0 +1,33 @@
+header{
+    
+    background: width;
+    
+}
+.git{
+    background: white;
+    display: flex;
+    width: 5%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 32px 1175px 20px 120px;
+}
+.git h2{
+    font-weight: bold;
+}
+.git h3{
+    font-weight: lighter;
+}
+.buscador{
+    background-image: url("https://picsum.photos/200/300?random=2");
+    height: 250px;
+    margin: 0 119px 0 120px;
+}
+.button{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 42px 206px 41px 205;
+    
+
+}

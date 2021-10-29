@@ -1,0 +1,30 @@
+header{
+    background: #00AF1C;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    Width: 100%;
+    Height: 99px;
+    color: white;
+      
+}
+.menu {
+    width: 478px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+.home{
+    padding: 66px 0 0 28px;
+}
+.home h2{
+    padding: 50px 0 50px;
+}
+    
